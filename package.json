@@ -1,0 +1,25 @@
+{
+  "name": "api-key-regex",
+  "version": "1.0.0",
+  "description": "API key regex",
+  "main": "validateAblyApiKey.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ably/api-key-regex.git"
+  },
+  "keywords": [
+    "ably"
+  ],
+  "author": "Marc Duiker",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ably/api-key-regex/issues"
+  },
+  "homepage": "https://github.com/ably/api-key-regex#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
